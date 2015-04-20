@@ -1260,6 +1260,7 @@ noscript {
 .tabs {
   width:100%;
   display:inline-block;
+  position: relative;
 }
 /*----- Tab Links -----*/
 /* Clearfix */
